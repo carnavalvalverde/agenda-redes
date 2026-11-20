@@ -1,0 +1,377 @@
+{
+ "actualizado": "2026-11-20T16:25",
+ "tareas": [
+  {
+   "id": "2026-11-21-reel-play",
+   "cuando": "2026-11-21T13:00",
+   "app": "Play",
+   "donde": [
+    "Historia IG carnaval.verde",
+    "Historia FB CarnaVALverde"
+   ],
+   "titulo": "Compartir el reel de Play en historias",
+   "pasos": [
+    "Abre el reel de Play del jueves 19 en Instagram (carnaval.verde).",
+    "Toca el avión de papel → «Añadir a tu historia».",
+    "Escribe el texto de abajo encima del reel.",
+    "Añade la pegatina «Enlace» con el enlace de Play y colócala debajo del texto.",
+    "Publica. Haz lo mismo en la historia de Facebook de CarnaVALverde."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Texto encima del reel",
+     "texto": "Más de 40 años de coplas en tu móvil 🎶"
+    },
+    {
+     "etiqueta": "Enlace de la pegatina",
+     "texto": "https://play.carnavalverde.com/app"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23-bio",
+   "cuando": "2026-11-23T10:00",
+   "app": "Coplea",
+   "donde": [
+    "Bio IG carnaval.verde",
+    "Página FB CarnaVALverde"
+   ],
+   "titulo": "Añadir Coplea a la bio de CarnaVALverde",
+   "pasos": [
+    "Instagram (carnaval.verde): Editar perfil → Enlaces → Añadir enlace externo.",
+    "Pega la URL y pon de título «Coplea». Deja Play como primer enlace.",
+    "Facebook (página CarnaVALverde): Editar detalles → Sitio web → Añadir sitio web, y pega la misma URL."
+   ],
+   "textos": [
+    {
+     "etiqueta": "URL",
+     "texto": "https://coplea.es/app"
+    },
+    {
+     "etiqueta": "Título del enlace",
+     "texto": "Coplea"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-tiktok-coplea",
+   "cuando": "2026-11-24T21:00",
+   "app": "Coplea",
+   "donde": [
+    "TikTok Coplea"
+   ],
+   "programable": true,
+   "titulo": "TikTok de Coplea: reel de lanzamiento",
+   "nota": "Puedes programarlo ya, no hace falta esperar al martes. Déjalo para el martes 24 a las 21:00.",
+   "pasos": [
+    "Guarda el vídeo en el móvil (botón de abajo).",
+    "TikTok de Coplea → + → Subir → elige el vídeo.",
+    "Pega el texto.",
+    "Portada: «Editar portada» y arrastra hasta el último segundo (o sube la imagen de portada si te deja).",
+    "Más opciones → Programar → martes 24/11, 21:00."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Texto del TikTok",
+     "texto": "Las letras por WhatsApp, los audios perdidos en el chat… ¿te suena? 🎭\nCoplea es la app para ensayar con tu agrupación: todas las piezas, letras y audios en un solo sitio.\n🔒 Todo va cifrado y solo lo ve tu grupo. El administrador aprueba quién entra.\nDisponible en App Store y Google Play. Enlace en el perfil 👆\n#Coplea #Carnaval #CarnavalDeCádiz #Chirigota #Comparsa #Ensayos #Coplas"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Vídeo del reel",
+     "fichero": "media/reel_lanzamiento_coplea.mp4"
+    },
+    {
+     "nombre": "Portada",
+     "fichero": "media/portada_tiktok_coplea.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-colab",
+   "cuando": "2026-11-24T21:00",
+   "app": "Coplea",
+   "donde": [
+    "IG @coplea.app"
+   ],
+   "titulo": "Añadir a carnaval.verde como colaborador del reel",
+   "pasos": [
+    "En cuanto salga el reel en @coplea.app, ábrelo en la app de Instagram.",
+    "⋯ → Editar → Etiquetar personas → Invitar colaborador → busca carnaval.verde.",
+    "Guarda. Cambia a la cuenta carnaval.verde y acepta la invitación (te llega en notificaciones o mensajes)."
+   ]
+  },
+  {
+   "id": "2026-11-24-h2",
+   "cuando": "2026-11-24T21:02",
+   "app": "Coplea",
+   "donde": [
+    "Historia IG @coplea.app",
+    "Historia IG carnaval.verde"
+   ],
+   "titulo": "H2: compartir el reel en historias de IG",
+   "pasos": [
+    "Abre el reel → avión de papel → «Añadir a tu historia».",
+    "Escribe el texto de abajo encima. Sin enlace.",
+    "Publica en @coplea.app y repite en carnaval.verde."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Texto encima del reel",
+     "texto": "¡Ya está aquí! 🎭"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24-h3",
+   "cuando": "2026-11-24T21:07",
+   "app": "Coplea",
+   "donde": [
+    "Historia IG @coplea.app",
+    "Historia IG carnaval.verde"
+   ],
+   "titulo": "H3: historia de descarga con enlace (IG)",
+   "nota": "En Facebook ya está programada. Esto es solo Instagram.",
+   "pasos": [
+    "Guarda la imagen en el móvil.",
+    "Nueva historia → elige la imagen.",
+    "Pegatina «Enlace» → pega la URL → colócala en el hueco de abajo.",
+    "Publica en @coplea.app y repite en carnaval.verde."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Enlace de la pegatina",
+     "texto": "https://coplea.es/app"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Historia H3",
+     "fichero": "media/h3_descarga_coplea.png"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-whatsapp",
+   "cuando": "2026-11-25T10:00",
+   "app": "Coplea",
+   "donde": [
+    "WhatsApp"
+   ],
+   "titulo": "WhatsApps a directores, autores y peñas",
+   "nota": "De uno en uno y por privado. En lista de difusión se lee como publicidad. Cambia lo que va entre corchetes.",
+   "pasos": [
+    "Manda el mensaje de directores a cada director/a que esté ensayando.",
+    "El de autores a cada autor/a.",
+    "El de peñas a las peñas y grupos de amigos.",
+    "El corto, con el reel adjunto, en los grupos de carnaval donde estés.",
+    "Pon el reel en tu estado de WhatsApp."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Directores",
+     "texto": "¡Buenas, [nombre]! Os escribo porque acabamos de sacar Coplea, una app para ensayar: cada agrupación tiene su grupo con las letras y los audios de cada voz (tenor, segunda…). Funciona sin cobertura, todo va cifrado y solo entra quien el administrador aprueba.\n\nLa hemos hecho desde CarnaVALverde pensando justo en estos meses de ensayo. Si os apetece probarla con [agrupación], está en App Store y Google Play: coplea.es/app. Si te lías, te ayudo a montar el grupo en 5 minutos 😉"
+    },
+    {
+     "etiqueta": "Autores",
+     "texto": "¡Hola, [nombre]! Hemos sacado Coplea, una app para que las agrupaciones ensayen: subes las letras y los audios por voz, y todos los componentes los tienen al momento en el móvil, sin fotocopias ni audios perdidos. Va cifrado y solo lo ve el grupo.\n\nSi escribes para alguna agrupación este año, échale un ojo: coplea.es/app 🎶"
+    },
+    {
+     "etiqueta": "Peñas",
+     "texto": "¡Ojo, que esto os va a venir bien! 🎭 Hemos sacado Coplea, una app para tener las letras y los audios de la peña en el móvil y ensayar donde sea, aunque no haya cobertura. Se crea el grupo, el administrador aprueba a la gente y listo: coplea.es/app"
+    },
+    {
+     "etiqueta": "Grupos de carnaval (con el reel)",
+     "texto": "Para los que estáis ensayando 🎶 Ya está en App Store y Google Play Coplea, la app de CarnaVALverde para ensayar con tu agrupación: letras y audios por voz, cifrados y solo para tu grupo. coplea.es/app"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Reel para adjuntar y para el estado",
+     "fichero": "media/reel_lanzamiento_coplea.mp4"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25-h4",
+   "cuando": "2026-11-25T14:00",
+   "app": "Coplea",
+   "donde": [
+    "Historias IG y FB · @coplea.app",
+    "Historias IG y FB · CarnaVALverde"
+   ],
+   "titulo": "H4: encuesta en historias",
+   "pasos": [
+    "Guarda la imagen en el móvil.",
+    "Nueva historia → elige la imagen.",
+    "Pegatina «Encuesta» → pon la pregunta y las tres opciones de abajo → colócala en el hueco del centro.",
+    "Publica en las dos cuentas de IG y en las de FB (en FB, si no sale la encuesta, súbela sin ella)."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Pregunta",
+     "texto": "¿Cómo os pasáis las letras y los audios?"
+    },
+    {
+     "etiqueta": "Opción 1",
+     "texto": "WhatsApp"
+    },
+    {
+     "etiqueta": "Opción 2",
+     "texto": "Papel y lápiz"
+    },
+    {
+     "etiqueta": "Opción 3",
+     "texto": "Ya usamos Coplea"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Historia H4",
+     "fichero": "media/h4_encuesta_coplea.png"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-h5",
+   "cuando": "2026-11-27T20:00",
+   "app": "Coplea",
+   "donde": [
+    "Historia IG @coplea.app",
+    "Historia IG carnaval.verde"
+   ],
+   "titulo": "H5: historia para directores con enlace (IG)",
+   "nota": "En Facebook ya está programada. Esto es solo Instagram.",
+   "pasos": [
+    "Guarda la imagen en el móvil.",
+    "Nueva historia → elige la imagen.",
+    "Pegatina «Enlace» → pega la URL → colócala en el hueco de abajo.",
+    "Publica en @coplea.app y repite en carnaval.verde."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Enlace de la pegatina",
+     "texto": "https://coplea.es/app"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Historia H5",
+     "fichero": "media/h5_directores_coplea.png"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-letras1",
+   "cuando": "2026-11-28T13:00",
+   "app": "Play",
+   "donde": [
+    "Historia IG carnaval.verde",
+    "Historia FB CarnaVALverde"
+   ],
+   "titulo": "Compartir Letras con historia #1 en historias",
+   "pendiente": "Falta la pieza: pásame la letra de Letras con historia #1 y te dejo aquí el texto.",
+   "pasos": [
+    "Abre la publicación del jueves 26 → avión de papel → «Añadir a tu historia».",
+    "Pegatina «Enlace» con el enlace de Play.",
+    "Publica en IG y en FB."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Enlace de la pegatina",
+     "texto": "https://play.carnavalverde.com/app"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-01-colab",
+   "cuando": "2026-12-01T21:00",
+   "app": "Coplea",
+   "donde": [
+    "IG @coplea.app"
+   ],
+   "titulo": "Añadir a carnaval.verde como colaborador del carrusel «3 pasos»",
+   "pasos": [
+    "Cuando salga el carrusel en @coplea.app, ábrelo en la app de Instagram.",
+    "⋯ → Editar → Etiquetar personas → Invitar colaborador → carnaval.verde.",
+    "Cambia a carnaval.verde y acepta la invitación."
+   ]
+  },
+  {
+   "id": "2026-12-03-tiktok-3pasos",
+   "cuando": "2026-12-03T21:00",
+   "app": "Coplea",
+   "donde": [
+    "TikTok Coplea"
+   ],
+   "programable": true,
+   "titulo": "TikTok de Coplea: reel «3 pasos»",
+   "nota": "Puedes programarlo cuando quieras para el jueves 3/12 a las 21:00.",
+   "pasos": [
+    "Guarda el vídeo en el móvil.",
+    "TikTok de Coplea → + → Subir → elige el vídeo.",
+    "Pega el texto.",
+    "Más opciones → Programar → jueves 3/12, 21:00."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Texto del TikTok",
+     "texto": "Montar tu agrupación en Coplea son 3 pasos 👇\n1️⃣ Crea el grupo y sus voces\n2️⃣ Sube las piezas: letra y audio por voz\n3️⃣ Invita a los componentes y tú los apruebas\n🔒 Vuestras letras y audios, cifrados y solo para tu grupo.\nApp Store y Google Play, enlace en el perfil 👆\n#Coplea #Carnaval #Comparsa #Chirigota #Ensayos #Coplas"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Vídeo del reel",
+     "fichero": "media/reel_3pasos_coplea.mp4"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-04-coche",
+   "cuando": "2026-12-04T20:05",
+   "app": "Play",
+   "donde": [
+    "Historia IG carnaval.verde"
+   ],
+   "titulo": "Historia del coche con enlace (IG)",
+   "nota": "En Facebook ya está programada. Esto es solo Instagram.",
+   "pasos": [
+    "Guarda la imagen en el móvil.",
+    "Nueva historia en carnaval.verde → elige la imagen.",
+    "Pegatina «Enlace» con el enlace de Play.",
+    "Publica."
+   ],
+   "textos": [
+    {
+     "etiqueta": "Enlace de la pegatina",
+     "texto": "https://play.carnavalverde.com/app"
+    }
+   ],
+   "archivos": [
+    {
+     "nombre": "Historia del coche",
+     "fichero": "media/historia_coche.jpg"
+    }
+   ]
+  }
+ ],
+ "pendientes": [
+  {
+   "id": "p-letras1",
+   "texto": "Pásame la letra de Letras con historia #1 (sale el jueves 26/11 a las 21:00)."
+  },
+  {
+   "id": "p-letras2",
+   "texto": "Pásame la letra de Letras con historia #2 (jueves 3/12, 21:00)."
+  },
+  {
+   "id": "p-noticia",
+   "texto": "¿Te escribo la noticia «Dos apps para vivir el carnaval todo el año» para las dos webs?"
+  },
+  {
+   "id": "p-google",
+   "texto": "¿Estará publicada la entrada con Google en Android para el 8/12? Si no, cambio esa pieza por una de Coplea."
+  }
+ ],
+ "version": 1
+}
