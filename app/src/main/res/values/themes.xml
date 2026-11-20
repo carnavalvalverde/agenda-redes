@@ -1,0 +1,10 @@
+<resources>
+    <color name="fondo">#1C1C22</color>
+    <color name="verde">#9CC45A</color>
+    <style name="Theme.Agenda" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/fondo</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+        <item name="android:colorAccent">@color/verde</item>
+    </style>
+</resources>

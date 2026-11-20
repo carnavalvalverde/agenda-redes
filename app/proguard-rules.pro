@@ -1,0 +1,3 @@
+-keepattributes *Annotation*, InnerClasses
+-keep,includedescriptorclasses class es.carnavalverde.agenda.data.**$$serializer { *; }
+-keepclassmembers class es.carnavalverde.agenda.data.** { *** Companion; kotlinx.serialization.KSerializer serializer(...); }
