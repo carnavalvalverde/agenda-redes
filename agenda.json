@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T16:25",
+ "actualizado": "2026-11-20T17:30",
  "tareas": [
   {
    "id": "2026-11-21-reel-play",
@@ -269,14 +269,18 @@
     "Historia IG carnaval.verde",
     "Historia FB CarnaVALverde"
    ],
-   "titulo": "Compartir Letras con historia #1 en historias",
-   "pendiente": "Falta la pieza: pásame la letra de Letras con historia #1 y te dejo aquí el texto.",
+   "titulo": "Compartir Letras con historia (Los Reclutas en Servicio) en historias",
    "pasos": [
-    "Abre la publicación del jueves 26 → avión de papel → «Añadir a tu historia».",
-    "Pegatina «Enlace» con el enlace de Play.",
-    "Publica en IG y en FB."
+    "Abre el reel del jueves 26 (Los Reclutas en Servicio) en Instagram → avión de papel → «Añadir a tu historia».",
+    "Escribe el texto de abajo encima del reel.",
+    "Pegatina «Enlace» con el enlace de Play, debajo del texto.",
+    "Publica. Haz lo mismo en la historia de Facebook de CarnaVALverde."
    ],
    "textos": [
+    {
+     "etiqueta": "Texto encima del reel",
+     "texto": "Los Reclutas en Servicio: del palco al escenario, y una llamada a los chavales para seguir sus pasos 🪖 Escúchala en Play CarnaVALverde 👇"
+    },
     {
      "etiqueta": "Enlace de la pegatina",
      "texto": "https://play.carnavalverde.com/app"
@@ -356,10 +360,6 @@
   }
  ],
  "pendientes": [
-  {
-   "id": "p-letras1",
-   "texto": "Pásame la letra de Letras con historia #1 (sale el jueves 26/11 a las 21:00)."
-  },
   {
    "id": "p-letras2",
    "texto": "Pásame la letra de Letras con historia #2 (jueves 3/12, 21:00)."
